@@ -2,5 +2,5 @@
 <h3 align="center">A Humorous and not talented programmer</h3>
 
 <h4 align="center">
-- ⚡ Fun fact **I think I am a F-35**    
+⚡ Fun fact I think I am a F-35   
 </h4>
